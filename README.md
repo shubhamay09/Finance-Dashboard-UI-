@@ -6,7 +6,7 @@ A clean, interactive personal finance dashboard built as a single self-contained
 
 ## Quick Start
 
-1. Open `https://finance-dashboard-ui-eosin.vercel.app/` directly in any modern browser
+1. Open https://finance-dashboard-ui-eosin.vercel.app/ directly in any modern browser
 2. That's it — no setup required
 
 All data is persisted automatically via `localStorage`, so your transactions survive page refreshes.
